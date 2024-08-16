@@ -3,7 +3,7 @@
 
 - 🧑‍🎓 Studing **Computer Science and Engineering** at **Vidya Jyothi Institute of Technology**
 - 🔭 I’m currently working on a Project named **MindMesh**
-- 👨‍💻 All of my projects details are available at **https://joy-mercy-portfolio.tiiny.site/**
+- 👨‍💻 All of my projects details are available at **https://kona-joy-mercy-portfolio.tiiny.site/**
 - 📫 Reach me out through **konajoymercy@gmail.com**
 
 
